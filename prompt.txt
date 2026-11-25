@@ -1,0 +1,1 @@
+The Internet in One Word: a deterministic TypeScript program that picks the single word that best describes the whole internet — "yapping" — by scoring fixed candidates against the judge's five criteria (single word, funny, true of the whole internet, surprising, lands in one beat), checks the entry gate, and writes the word to entry.txt.
